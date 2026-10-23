@@ -66,7 +66,9 @@ I once accidentally strengthened the security of a server too much, then I could
 
 **Organizations**
 
-<img src="https://img.shields.io/badge/Organization-H%C4%B0GER-1f2937?style=flat-square&logo=github&logoColor=58a6ff&labelColor=1f2937" alt="HİGER" />
+<a href="https://github.com/higer023">
+  <img src="https://img.shields.io/badge/Organization-H%C4%B0GER-1f2937?style=flat-square&logo=github&logoColor=58a6ff&labelColor=1f2937" alt="HİGER" />
+</a>
 
 ### Connect
 
@@ -81,6 +83,10 @@ I once accidentally strengthened the security of a server too much, then I could
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=higer23&show_icons=true&theme=github_dark_dimmed&title_color=58a6ff&icon_color=58a6ff&text_color=9da7b3&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=higer23&layout=compact&theme=github_dark_dimmed&title_color=58a6ff&text_color=9da7b3&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=higer23&hide_border=true&background=00000000&stroke=2d3a49&ring=58a6ff&fire=58a6ff&currStreakNum=e4e9f0&sideNums=e4e9f0&currStreakLabel=58a6ff&sideLabels=9da7b3&dates=9da7b3" alt="Streak" />
 </p>
 
 <p align="center">
