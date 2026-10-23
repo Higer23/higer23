@@ -58,6 +58,7 @@ I once accidentally strengthened the security of a server too much, then I could
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
 </p>
 
 **Highlights**
