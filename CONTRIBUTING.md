@@ -8,3 +8,6 @@ When contributing from a phone or tablet:
 - Review the final diff and confirm that no unrelated files were modified.
 - Test links and image references after the change is published.
 - Report any checks that could not be run from the mobile device.
+
+
+ 
