@@ -4,15 +4,36 @@
   </a>
 </p>
 
-### 🚀 About Me
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About-58a6ff?style=flat-square&labelColor=1f2937" alt="About" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-58a6ff?style=flat-square&labelColor=1f2937" alt="Tech Stack" /></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-58a6ff?style=flat-square&labelColor=1f2937" alt="Achievements" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-58a6ff?style=flat-square&labelColor=1f2937" alt="Connect" /></a>
+</p>
+
+### About
 
 I'm 16 years old and I'm just trying to learn coding.
 
-💬 &nbsp;Ask me about **HTML, CSS, JS**  
-😄 &nbsp;Pronouns: **He/His**  
-⚡ &nbsp;Fun fact: **I once accidentally strengthened the security of a Server too much, then I couldn't get in myself**
+<details>
+<summary><b>Ask me about</b></summary>
+<br />
+HTML, CSS and JS
+</details>
 
-### 🛠️ Tech Stack
+<details>
+<summary><b>Pronouns</b></summary>
+<br />
+He/His
+</details>
+
+<details>
+<summary><b>Fun fact</b></summary>
+<br />
+I once accidentally strengthened the security of a server too much, then I couldn't get in myself.
+</details>
+
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=e5e7eb" alt="JavaScript" />
@@ -30,7 +51,24 @@ I'm 16 years old and I'm just trying to learn coding.
   <img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=e5e7eb" alt="GitHub" />
 </p>
 
-### 🔗 Connect With Me
+### Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" />
+</p>
+
+**Highlights**
+
+<img src="https://img.shields.io/badge/Developer%20Program-Member-1f2937?style=flat-square&logo=githubsponsors&logoColor=58a6ff&labelColor=1f2937" alt="Developer Program Member" />
+
+**Organizations**
+
+<img src="https://img.shields.io/badge/Organization-H%C4%B0GER-1f2937?style=flat-square&logo=github&logoColor=58a6ff&labelColor=1f2937" alt="HİGER" />
+
+### Connect
 
 <p align="left">
   <a href="https://instagram.com/higer.23"><img src="https://img.shields.io/badge/Instagram-1f2937?style=flat-square&logo=instagram&logoColor=e5e7eb" alt="Instagram" /></a>
@@ -38,20 +76,16 @@ I'm 16 years old and I'm just trying to learn coding.
   <a href="mailto:higeryazilim@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=e5e7eb" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=higer23&show_icons=true&theme=github_dark_dimmed&title_color=58a6ff&icon_color=58a6ff&text_color=9da7b3&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=higer23&layout=compact&theme=github_dark_dimmed&title_color=58a6ff&text_color=9da7b3&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=higer23&bg_color=00000000&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="activity graph" />
 </p>
-
-### 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
