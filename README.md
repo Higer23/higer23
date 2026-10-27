@@ -76,7 +76,7 @@ I once accidentally strengthened the security of a server too much, then I could
 <p align="left">
   <a href="https://instagram.com/higer.23"><img src="https://img.shields.io/badge/Instagram-1f2937?style=flat-square&logo=instagram&logoColor=e5e7eb" alt="Instagram" /></a>
   <a href="https://higer23.github.io/-/"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=e5e7eb" alt="Portfolio" /></a>
-  <a href="mailto:higeryazilim@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=e5e7eb" alt="Email" /></a>
+  <a href="mailto:halil@higer.tech"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=e5e7eb" alt="Email" /></a>
 </p>
 
 ### GitHub Stats
